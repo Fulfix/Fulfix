@@ -12,7 +12,7 @@ OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son 
   <li>JavaScript <i class="devicon-javascript-plain"></i></li>
 </ul>
 <h1>Mes stats</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulfix)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulfix&hide=contribs,prs)
 
 <h1>Contact</h1>
 Vous pouvez me contacter via mon adresse email "fulfix.sellier@gmail.com" ou sur mon profil GitHub si vous avez des questions ou si vous souhaitez discuter de projets.
