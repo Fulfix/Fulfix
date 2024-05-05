@@ -7,7 +7,8 @@ OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son 
 <h1>En apprentissage</h1>
 <ul>
   <li>Python <i class="devicon-python-plain"></i></li>
-  <li>HTML/CSS <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i></li>
+  <li>HTML/CSS <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</i></li>
   <li>JavaScript <i class="devicon-javascript-plain"></i></li>
 </ul>
 
