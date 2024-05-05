@@ -13,7 +13,7 @@ OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son 
 </ul>
 <h1>Mes stats</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fulfix&title_color=ff0000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fulfix&title_color=#FFFF00" />
 </a>
 
 
