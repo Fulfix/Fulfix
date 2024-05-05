@@ -12,7 +12,8 @@ OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son 
   <li>JavaScript <i class="devicon-javascript-plain"></i></li>
 </ul>
 <h1>Mes stats</h1>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fulfix&show_icons=true&theme=radical)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=fulfix&show_icons=true&theme=radical)](https://github.com/fulfix)
+
 
 
 
