@@ -5,9 +5,12 @@ Salut ! 👋 Je suis un jeune développeur passionné par le monde de la program
 OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son PC sous windows 11
 
 <h1>En apprentissage</h1>
-Python
-HTML/CSS
-JavaScript
+<ul>
+  <li>Python <i class="devicon-python-plain"></i></li>
+  <li>HTML/CSS <i class="devicon-html5-plain"></i><i class="devicon-css3-plain"></i></li>
+  <li>JavaScript <i class="devicon-javascript-plain"></i></li>
+</ul>
+
 
 <h1>Contact</h1>
 Vous pouvez me contacter via mon adresse email "fulfix.sellier@gmail.com" ou sur mon profil GitHub si vous avez des questions ou si vous souhaitez discuter de projets.
