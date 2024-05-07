@@ -2,7 +2,7 @@
 Salut ! 👋 Je suis un jeune développeur passionné par le monde de la programmation. Actuellement en train d'apprendre le développement, je m'amuse à coder et à explorer différents domaines. J'ai récemment créé un site web et un bot Discord pour mettre en pratique mes compétences et pour me divertir.
 
 <h1>Projets récents</h1>
-OptiBanana - C'est un site sue lequel on trouve des logiciel pour optimiser son PC sous windows 11
+OptiBanana - C'est un site sur lequel on trouve des logiciels pour optimiser son PC sous windows 11
 
 <h1>En apprentissage</h1>
 <ul>
