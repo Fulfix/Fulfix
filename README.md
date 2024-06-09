@@ -1,8 +1,10 @@
 <h1>About Me</h1>
 Hi! 👋 I'm a young developer passionate about the world of programming. Currently learning development, I enjoy coding and exploring different fields. Recently, I created a website and a Discord bot to practice my skills and have fun.
 
-<h1>Recent Projects</h1>
-OptiBanana - A site offering software to optimize PCs running Windows 11
+<ul>
+  <li>OptiBanana : </li>
+  <li>DiscordCraftBot : </li>
+</ul>
 
 <h1>Currently Learning</h1>
 <ul>
