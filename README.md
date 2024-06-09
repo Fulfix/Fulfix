@@ -1,6 +1,7 @@
 <h1>About Me</h1>
 Hi! 👋 I'm a young developer passionate about the world of programming. Currently learning development, I enjoy coding and exploring different fields. Recently, I created a website and a Discord bot to practice my skills and have fun.
 
+<h1> My project</h1>  
 <ul>
   <li>OptiBanana : </li>
   <li>DiscordCraftBot : </li>
