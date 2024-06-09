@@ -3,7 +3,7 @@ Hi! 👋 I'm a young developer passionate about the world of programming. Curren
 
 <h1> My project</h1>  
 <ul>
-  <li>OptiBanana : OptiBanana is a website dedicated to providing software tools and tips to optimize PCs running Windows 11. It's designed to help users improve the performance and efficiency of their systems.</li>
+  <li><h4>OptiBanana</h4> : OptiBanana is a website dedicated to providing software tools and tips to optimize PCs running Windows 11. It's designed to help users improve the performance and efficiency of their systems.</li>
   <li>DiscordCraftBot : DiscordCraftBot is a bot designed for Discord servers to simplify the management of Minecraft servers. It provides features and commands to streamline server operations, making it easier for admins to manage their Minecraft communities.</li>
 </ul>
 
